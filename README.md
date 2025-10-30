@@ -1,7 +1,7 @@
 
 # Malicious URL Detection System Using Machine Learning, Deep Learning and NLP
 
-## Website URL: https://main.d3ic9i6whelr8c.amplifyapp.com/
+<!-- ## Website URL: https://main.d3ic9i6whelr8c.amplifyapp.com/ -->
 
 ## Project Description:
 
@@ -9,11 +9,11 @@
     
     The system's primary goal is to identify and categorize URLs into safe or malicious, thereby safeguarding users from cyber threats and enhancing overall internet security.
 
-    The project's frontend is developed using React, a popular JavaScript library for building user interfaces, while the backend is built using the Flask web framework.
+    The project's frontend is developed using React, a popular JavaScript library for building user interfaces, while the backend is built using the NODEJS.
     
     The entire model pipeline, from data ingestion and preprocessing to model building, is implemented in Python, with extensive logging and custom exception handling to ensure optimal performance and maintainability. 
     
-    The frontend is deployed on AWS Amplify, and the backend is deployed using Azure, offering seamless integration and scalability.
+    <!-- The frontend is deployed on AWS Amplify, and the backend is deployed using Azure, offering seamless integration and scalability. -->
 
 
 ## Features
@@ -54,9 +54,9 @@
 - React.js
 - Node.js
 - Python 3
-- Flask
+<!-- - Flask
 - Azure account
-- AWS Amplify account
+- AWS Amplify account -->
 
 
 
@@ -65,13 +65,13 @@
 Clone the repository
 
 ```bash
-  git clone https://github.com/Priyanshu9898/End-to-End-Malicious-URL-Detection.git
+  git clone https://github.com/Sitaram8472/Fraud_Website_Detection_Using_ML
 ```
-
+<!-- 
 Change to the project's directory
 
 ```bash
-  cd End-to-End-Malicious-URL-Detection
+  cd End-to-End-Malicious-URL-Detection -->
 ```
 
 Install the frontend dependencies
@@ -80,12 +80,12 @@ Install the frontend dependencies
   cd frontend
   npm install
 ```
-
+<!-- 
 Install the Backend dependencies
 
 ```bash
   cd backend
-  pip install -r requirements.txt
+  pip install -r requirements.txt -->
 
 ```
 
@@ -97,10 +97,10 @@ Start the frontend development server
 
 ```
 
-Start the backend development server
+<!-- Start the backend development server
 ```bash
   cd backend
-  python app.py
+  python app.py -->
 
 ```
 
@@ -131,11 +131,11 @@ Open your browser and visit http://localhost:3000 to access the frontend of the 
 ![App Screenshot](https://i.postimg.cc/SxVngxvv/Malicious-URL-Detection-Brave-19-04-2023-21-47-06.png)
 
 
-## 🔗 Links
+<!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Priyanshu9898/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshumalaviya/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Priyanshu2281)
-[![Medium](https://img.shields.io/badge/medum-1DA1F2?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@priyanshumalaviya9210)
+[![Medium](https://img.shields.io/badge/medum-1DA1F2?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@priyanshumalaviya9210) -->
 ## Demo
 
 Insert gif or link to demo
@@ -150,7 +150,7 @@ To deploy this project run
 ```
 
 
-## Badges
+<!-- ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
@@ -161,5 +161,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) -->
 
