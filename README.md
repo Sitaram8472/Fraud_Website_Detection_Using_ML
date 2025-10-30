@@ -37,17 +37,17 @@
 - #### Logging and Custom Exception Handling:
     The system incorporates extensive logging and custom exception handling mechanisms to monitor the application's performance, detect issues, and ensure a seamless user experience. These mechanisms provide detailed information on errors, warnings, and system events, enabling developers to troubleshoot and improve the system continuously.
 
-- #### Frontend Deployment on AWS Amplify:
+<!-- - #### Frontend Deployment on AWS Amplify:
     The React frontend is deployed using AWS Amplify, a development platform for building and deploying secure and scalable web applications. Amplify provides a range of features, including authentication, storage, and serverless functions, allowing the frontend to be easily and securely hosted in the cloud.
 
 - #### Backend Deployment on Azure:
-    The Flask backend is deployed using Azure, Microsoft's cloud computing platform. Azure offers a range of services for hosting, scaling, and managing web applications, ensuring that the backend can handle increasing traffic and user demands.
+    The Flask backend is deployed using Azure, Microsoft's cloud computing platform. Azure offers a range of services for hosting, scaling, and managing web applications, ensuring that the backend can handle increasing traffic and user demands. -->
 
 ## Tech Stack
 
 **Frontend:** React, ChakraUI, Tsparticles
 
-**Server:** Flask, Python, Machine Learning, Deep , NLP, Text processing
+**Server:** Flask, Python, Machine Learning, Deep , NLP, Text processing, Node.js
 
 
 ## Prerequisites
@@ -124,11 +124,11 @@ Open your browser and visit http://localhost:3000 to access the frontend of the 
 
 ![App Screenshot](https://i.postimg.cc/3J50R6Gn/Malicious-URL-Detection-Brave-19-04-2023-21-46-14.png)
 
-
+<!-- 
 ![App Screenshot](https://i.postimg.cc/xTvJbRyY/Malicious-URL-Detection-Brave-19-04-2023-21-46-23.png)
 
 
-![App Screenshot](https://i.postimg.cc/SxVngxvv/Malicious-URL-Detection-Brave-19-04-2023-21-47-06.png)
+![App Screenshot](https://i.postimg.cc/SxVngxvv/Malicious-URL-Detection-Brave-19-04-2023-21-47-06.png) -->
 
 
 <!-- ## 🔗 Links
@@ -136,7 +136,7 @@ Open your browser and visit http://localhost:3000 to access the frontend of the 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshumalaviya/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Priyanshu2281)
 [![Medium](https://img.shields.io/badge/medum-1DA1F2?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@priyanshumalaviya9210) -->
-## Demo
+<!-- ## Demo
 
 Insert gif or link to demo
 
@@ -147,7 +147,7 @@ To deploy this project run
 
 ```bash
   npm run deploy
-```
+``` -->
 
 
 <!-- ## Badges
